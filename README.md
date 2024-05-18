@@ -1,2 +1,2 @@
-# cool-code
-Thus begins the programming
+#coding exercises
+Hello World!
